@@ -127,6 +127,7 @@ dependencies {
     implementation fg.deobf(jarJar(group: 'dev.xkmc.l2serial', name: 'l2serial', version: "[1.2.2,)"))
     implementation fg.deobf(jarJar(group: 'dev.xkmc.l2damagetracker', name: 'l2damagetracker', version: "[0.3.8,)"))
     implementation fg.deobf(jarJar(group: 'dev.xkmc.l2library', name: 'l2library', version: "[2.4.23,)"))
+    implementation fg.deobf(jarJar(group: 'xiaoyue.celestial_invoker', name: 'celestial_invoker', version: "[20f11ce8,)"))
 
     implementation fg.deobf("xiaoyue.celestial_core:celestial_core:1.5.5-slim")
     implementation fg.deobf("xiaoyue.celestial_artifacts:celestial_artifacts:1.4.5")
